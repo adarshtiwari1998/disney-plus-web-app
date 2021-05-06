@@ -1,3 +1,27 @@
+#### Technology uses on this webapp ####
+
+#React
+#React Router
+#user event
+#react dom
+#react toolkit
+#redux
+#react slick slider
+#react slick carousel
+#style components
+#firebase firestore database
+#firebase authentications
+#firebase deploy
+
+--------------------------******--------------------------------
+
+Live Url: 👉 https://disneyplus-web.web.app
+
+
+--------------------------******--------------------------------
+
+#### Cheat sheet ####
+
 <!--install style components with npm  -->
 npm i styled-components
 
@@ -36,6 +60,8 @@ npm add slick-carousel
 # ftfam    for font family
 
 
+### Webapp name ####
+"# disneypluswebapp #" 
 
-"# disneyplus" 
-"# disneyplus" 
+
+### 👉 🔥 🚀 Disneyplus web app version 2 coming soon stay with us and follow me on github 🔥 🚀###
