@@ -55,13 +55,22 @@ npm add slick-carousel
 
 # vs code tips and tricks
 
-fosiz    for font size
-txdec    for text decoration
-ftfam    for font family
+fosiz --->  for font size
+txdec --->  for text decoration
+ftfam --->  for font family
 
 
 ### Webapp name ####
 "# disneypluswebapp #" 
 
 
-### 👉 🔥 🚀 Disneyplus web app version 2 coming soon stay with us and follow me on github 🔥 🚀###
+"#### 👉 🔥 🚀 Disneyplus web app version 2 coming soon stay with us and follow me on github ####"
+
+
+--------------------------******--------------------------------
+
+"####  My website url #####"
+
+👉 http://marketitup.in/
+
+--------------------------******--------------------------------
