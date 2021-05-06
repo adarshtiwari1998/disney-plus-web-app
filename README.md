@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+<!--install style components with npm  -->
+npm i styled-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--install react router dom with npm  -->
+npm add react-router-dom
 
-## Available Scripts
+<!-- add firebase to the project  -->
+npm install --save firebase
 
-In the project directory, you can run:
+<!-- add firebase tools -->
+npm install --save firebase-tools
 
-### `yarn start`
+<!-- A complete lof file are found in another place this type firebase json error when come so try to run this command and and again install firebase and firebase tools -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+npm cache clean --force
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<!-- install  and add react-redux for storing the authetication information into database -->
+npm install react-redux
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ <!-- install react reduxjs/toolkit to make it easier for redux  -->
+npm add @reduxjs/toolkit
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- install and add react slick slider -->
+npm add react-slick
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- install and add react slick carousel -->
+npm add slick-carousel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+<!-- vs code tips and tricks -->
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# fosiz    for fint size
+# txdec    for text decoration
+# ftfam    for font family
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
